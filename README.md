@@ -14,7 +14,8 @@
 * Fine-grained: [aspects - fine.csv](aspects-fine.csv)
 
 ### Validity Check
-* Validation: [notebook-validity_check_&_aspect_analysis.ipynb](notebook-validity_check_&_aspect_analysis.ipynb)
+* LLM annotation consistency: [notebook-validity_check_&_aspect_analysis.ipynb](notebook-validity_check_&_aspect_analysis.ipynb)
+* Annotation guidelines: [annotation-guidelines.pdf](annotation-guidelines.pdf)
 * Human annotations: [human_annotations/](human_annotations)
 
 ### Data sources
