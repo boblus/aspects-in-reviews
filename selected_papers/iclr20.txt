@@ -1,0 +1,50 @@
+Well-Read Students Learn Better: On the Importance of Pre-training Compact Models
+Entropy Minimization In Emergent Languages
+Attention over Phrases
+R2D2: Reuse & Reduce via Dynamic Weight Diffusion for Training Efficient NLP Models
+Structural Language Models for Any-Code Generation
+Progressive Memory Banks for Incremental Domain Adaptation
+Abductive Commonsense Reasoning
+Improving Semantic Parsing with Neural Generator-Reranker Architecture
+Diagnosing the Environment Bias in Vision-and-Language Navigation
+GPNET: MONOCULAR 3D VEHICLE DETECTION BASED ON LIGHTWEIGHT WHEEL GROUNDING POINT DETECTION NETWORK
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+Pushing the bounds of dropout
+Robust Instruction-Following in a Situated Agent via Transfer-Learning from Text
+Natural- to formal-language generation using Tensor Product Representations
+From English to Foreign Languages: Transferring Pre-trained Language Models
+A New Multi-input Model with the Attention Mechanism for Text Classification
+Environmental drivers of systematicity and generalization in a situated agent
+Thieves on Sesame Street! Model Extraction of BERT-based APIs
+Learning Compact Reward for Image Captioning
+Learn Interpretable Word Embeddings Efficiently with von Mises-Fisher Distribution
+Augmenting Transformers with KNN-Based Composite Memory
+Multichannel Generative Language Models
+Distilled embedding: non-linear embedding factorization using knowledge distillation
+Measuring Compositional Generalization: A Comprehensive Method on Realistic Data
+Learning Hierarchical Discrete Linguistic Units from Visually-Grounded Speech
+XD: Cross-lingual Knowledge Distillation for Polyglot Sentence Embeddings
+LambdaNet: Probabilistic Type Inference using Graph Neural Networks
+A Constructive Prediction of the Generalization Error Across Scales
+Imitation Learning of Robot Policies using Language, Vision and Motion
+Graph Constrained Reinforcement Learning for Natural Language Action Spaces
+Multi-source Multi-view Transfer Learning in Neural Topic Modeling with Pretrained Topic and Word Embeddings
+TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising
+Exploration Based Language Learning for Text-Based Games
+The Curious Case of Neural Text Degeneration
+Pre-training Tasks for Embedding-based Large-scale Retrieval
+On the interaction between supervision and self-play in emergent communication
+End-to-end named entity recognition and relation extraction using pre-trained language models
+On Incorporating Semantic Prior Knowlegde in Deep Learning Through Embedding-Space Constraints
+On the Linguistic Capacity of Real-time Counter Automata
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+Compositional languages emerge in a neural iterated learning model
+wMAN: WEAKLY-SUPERVISED MOMENT ALIGNMENT NETWORK FOR TEXT-BASED VIDEO SEGMENT RETRIEVAL
+Towards Verified Robustness under Text Deletion Interventions
+DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling
+SesameBERT: Attention for Anywhere
+word2ket: Space-efficient Word Embeddings inspired by Quantum Entanglement
+Unsupervised Data Augmentation for Consistency Training
+Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation
+WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia
+Learning The Difference That Makes A Difference With Counterfactually-Augmented Data

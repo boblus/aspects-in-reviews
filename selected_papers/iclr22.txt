@@ -1,0 +1,50 @@
+Language modeling via stochastic processes
+Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation
+Language model compression with weighted low-rank factorization
+Meta-Referential Games to Learn Compositional Learning Behaviours
+Adaptive Label Smoothing with Self-Knowledge
+Conditional set generation using Seq2seq models
+Language Modeling using LMUs: 10x Better Data Efficiency or Improved Scaling Compared to Transformers
+Identifying the Limits of Cross-Domain Knowledge Transfer for Pretrained Models
+Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training
+Pseudo Knowledge Distillation: Towards Learning Optimal Instance-specific Label Smoothing Regularization
+Selective Token Generation for Few-shot Language Modeling
+Fact-driven Logical Reasoning
+Limitations of Active Learning With Deep Transformer Language Models
+Sampling from Discrete Energy-Based Models with Quality/Efficiency Trade-offs
+Towards a Unified View of Parameter-Efficient Transfer Learning
+Pretrained Language Model in Continual Learning: A Comparative Study
+GreaseLM: Graph REASoning Enhanced Language Models
+On Reward Maximization and Distribution Matching for Fine-Tuning Language Models
+M6-10T: A Sharing-Delinking Paradigm for Efficient Multi-Trillion Parameter Pretraining
+8-bit Optimizers via Block-wise Quantization
+Shaped Rewards Bias Emergent Language
+Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators
+Curriculum Discovery through an Encompassing Curriculum Learning Framework
+Exposing the Implicit Energy Networks behind Masked Language Models via Metropolis--Hastings
+LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5
+Multi-Stage Episodic Control for Strategic Exploration in Text Games
+Towards Coherent and Consistent Use of Entities in Narrative Generation
+Learning Hierarchical Structures with Differentiable Nondeterministic Stacks
+EntQA: Entity Linking as Question Answering
+Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners
+Learning to Act with Affordance-Aware Multimodal Neural SLAM
+Active Learning over Multiple Domains in Natural Language Tasks
+Cross-Architecture Distillation Using Bidirectional CMOW Embeddings
+SeqPATE: Differentially Private Text Generation via Knowledge Distillation
+Expressivity of Emergent Languages is a Trade-off between Contextual Complexity and Unpredictability
+JOINTLY LEARNING TOPIC SPECIFIC WORD AND DOCUMENT EMBEDDING
+Towards Learning to Speak and Hear Through Multi-Agent Communication over a Continuous Acoustic Channel
+GPT-Critic: Offline Reinforcement Learning for End-to-End Task-Oriented Dialogue Systems
+Linking Emergent and Natural Languages via Corpus Transfer
+Proof Artifact Co-Training for Theorem Proving with Language Models
+Finetuned Language Models are Zero-Shot Learners
+VUT: Versatile UI Transformer for Multimodal Multi-Task User Interface Modeling 
+Learning to Model Editing Processes
+Language-biased image classification: evaluation based on semantic representations
+The Inductive Bias of In-Context Learning: Rethinking Pretraining Example Design
+Iterative Hierarchical Attention for Answering Complex Questions over Long Documents
+Examining Scaling and Transfer of Language Model Architectures for Machine Translation
+Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning
+OntoProtein: Protein Pretraining With Gene Ontology Embedding
+Perceiver IO: A General Architecture for Structured Inputs & Outputs

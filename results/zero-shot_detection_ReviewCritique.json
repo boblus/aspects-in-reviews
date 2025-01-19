@@ -1,0 +1,22 @@
+{
+    "UNDERSTANDING HTML WITH LARGE LANGUAGE MODELS": "{\"answer\": \"Review 5\"}",
+    "WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus": "{\"answer\": \"Review 2\"}",
+    "Pre-trained Language Models can be Fully Zero-Shot Learners ": "{\"answer\": \"Review 4\"}",
+    "Leveraging Large Language Models for Multiple Choice Question Answering": "{\n  \"answer\": \"Review 2\"\n}",
+    "Words are all you need? Language as an approximation for human similarity judgments": "{\"answer\": \"Review 2\"}",
+    "Pretrained Language Model in Continual Learning: A Comparative Study": "{\"answer\": \"Review 3\"}",
+    "Exploring extreme parameter compression for pre-trained language models": "{\"answer\": \"Review 1\"}",
+    "Recitation-Augmented Language Models": "{\"answer\": \"Review 1\"}",
+    "P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts": "{\"answer\": \"Review 4\"}",
+    "Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models": "{\"answer\": \"Review 1\"}",
+    "Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models": "{\"answer\": \"Review 1\"}",
+    "Recursion of Thought: Divide and Conquer Reasoning with Language Models": "{\"answer\": \"Review 1\"}",
+    "Thrust: Adaptively Propels Large Language Models with External Knowledge": "{\"answer\": \"Review 3\"}",
+    "Cramming: Training a language model on a single GPU in one day": "{\"answer\": \"Review 1\"}",
+    "Mapping Language Models to Grounded Conceptual Spaces": "{\"answer\": \"Review 1\"}",
+    "Capturing Structural Locality in Non-parametric Language Models": "{\"answer\": \"Review 1\"}",
+    "Using Document Similarity Methods to create Parallel Datasets for Code Translation": "{\"answer\": \"Review 2\"}",
+    "Out-of-Distribution Detection and Selective Generation for Conditional Language Models": "{\"answer\": \"Review 3\"}",
+    "Interactively Generating Explanations for Transformer Language Models": "{\"answer\": \"Review 2\"}",
+    "SaMoE: Parameter Efficient MoE Language Models via Self-Adaptive Expert Combination": "{\"answer\": \"Review 1\"}"
+}

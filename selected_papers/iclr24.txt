@@ -1,0 +1,50 @@
+A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis
+Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models
+Double-I Watermark: Protecting Model Copyright for LLM Fine-tuning
+PROTEIN DESIGNER BASED ON SEQUENCE PROFILE USING ULTRAFAST SHAPE RECOGNITION
+SetCSE: Set Operations using Contrastive Learning of Sentence Embeddings
+Minimum Edit Distance Training for Conditional Language Generation Models
+Active Prompting with Chain-of-Thought for Large Language Models
+AutoHall: Automated Hallucination Dataset Generation for Large Language Models
+IDEAL: Influence-Driven Selective Annotations Empower In-Context Learners in Large Language Models
+mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs
+Learning to Generate Better than your Large Language Models
+REX: Rapid Exploration and eXploitation for AI agents
+Evaluating the Zero-shot Robustness of Instruction-tuned Language Models
+Searching for High-Value Molecules Using Reinforcement Learning and Transformers
+REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets
+ReFusion: Improving Natural Language Understanding with Computation-Efficient Retrieval Representation Fusion
+Balance Beam: adaptive computation for affordable training and inference with high-throughput offloading for LLMs
+Who’s Harry Potter? Approximate Unlearning for LLMs
+Complex QA with Diverse Knowledge Sources:  Novel Benchmark  and Approach
+Listen, Think, and Understand
+Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers
+Safeguarding Data in Multimodal AI: A Differentially Private Approach to CLIP Training
+Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE
+Lemur: Integrating Large Language Models in Automated Program Verification
+Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models
+Transformer-Based Large Language Models Are Not General Learners: A Universal Circuit Perspective
+Quality-Diversity through AI Feedback
+CLEX: Continuous  Length Extrapolation for Large Language Models
+ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search
+Aligning Brains into a Shared Space Improves Their Alignment to Large Language Model
+Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design
+CLIP Exhibits Improved Compositional Generalization Through Representation Disentanglement
+Large Language Models as Rational Players in Competitive Economics Games
+The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets
+Implicit Intermediate Supervision for Learning Complex Functions
+Hybrid Retrieval-Augmented Generation for Real-time Composition Assistance
+Taming AI Bots: Controllability of Neural States in Large Language Models
+Bootstrapping Variational Information Pursuit with Large Language and Vision Models for Interpretable Image Classification
+EMO: EARTH MOVER DISTANCE OPTIMIZATION FOR AUTO-REGRESSIVE LANGUAGE MODELING
+Training and inference of large language models using 8-bit floating point
+LatticeGen: A Cooperative Framework Which Hides Generated Text in A Lattice For Privacy-Aware Generation on Cloud
+WavJourney: Compositional Audio Creation with Large Language Models
+Enhancing One-Shot Pruned Generative Pre-training Language Models through Sparse-Dense-Sparse Mechanism
+Instruct2Act: Mapping Multi-modality Instructions to Robotic Arm Actions with Large Language Model
+CogVLM: Visual Expert for Large Language Models
+LLMZip: Lossless Text Compression using Large Language Models
+Rethinking the bert-like pretraining for dna sequences
+Are LLMs Aware that Some Questions are not Open-ended?
+Maximizing LLMs Potential: Enhancing Mongolian Chinese Machine Translation with RL Agents and Adversarial Multi Knowledge Distillation
+Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts

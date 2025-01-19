@@ -1,0 +1,50 @@
+SLTUNET: A Simple Unified Model for Sign Language Translation
+$\sigma$Reparam: Stable Transformer Training with Spectral Reparametrization
+Caption supervision enables robust learners: a controlled study of distributionally robust model training
+Ask Me Anything: A simple strategy for prompting language models
+Repository-Level Prompt Generation for Large Language Models of Code
+Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners
+Emergence of shared sensory-motor graphical language from visual input
+InCoder: A Generative Model for Code Infilling and Synthesis
+Zero-Shot Retrieval with Search Agents and Hybrid Environments
+A Theory of Equivalence-Preserving Program Embeddings
+On the robustness of self-supervised models for generative spoken language modeling
+UNDERSTANDING THE ROLE OF POSITIONAL ENCODINGS IN SENTENCE REPRESENTATIONS
+Multi-Vector Retrieval as Sparse Alignment
+Prompt Tuning with Prompt-aligned Gradient for Vision-Language Models 
+Language Modeling Using Tensor Trains
+SAGE: Semantic-Aware Global Explanations for Named Entity Recognition
+Leveraging Large Language Models for Multiple Choice Question Answering
+PEER: A Collaborative Language Model
+Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models
+Learning to Decompose Visual Features with Latent Textual Prompts
+Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding
+Large Language Models Can Self-improve
+Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning
+Multiple output samples for each input in a single-output Gaussian process
+Selective Annotation Makes Language Models Better Few-Shot Learners
+Discovering Latent Knowledge in Language Models Without Supervision
+Automatically Auditing Large Language Models via Discrete Optimization
+GuoFeng: A Discourse-aware Evaluation Benchmark for Language Understanding, Translation and Generation
+Rethinking skip connection model as a learnable Markov chain
+Words are all you need? Language as an approximation for human similarity judgments
+Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning
+Distributed Inference and Fine-tuning of Large Language Models Over The Internet
+ADVL: Adaptive Distillation for Vision-Language Tasks
+Meta-learning from demonstrations improves compositional generalization
+Computational Language Acquisition with Theory of Mind
+Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
+Self-Consistent Learning: Cooperation between Generators and Discriminators
+Visually-Augmented Language Modeling
+Self-Consistency Improves Chain of Thought Reasoning in Language Models
+E-Forcing: Improving Autoregressive Models by Treating it as an Energy-Based One
+Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought
+Matching receptor to odorant with protein language and graph neural networks
+ProtFIM: Fill-in-Middle Protein Sequence Design via Protein Language Models
+CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
+HomoDistil: Homotopic Task-Agnostic Distillation of Pre-trained Transformers
+Hidden Markov Transformer for Simultaneous Machine Translation
+Towards Conditionally Dependent Masked Language Models
+A Non-monotonic Self-terminating Language Model
+Show and Write: Entity-aware Article Generation with Image Information
+Unified Detoxifying and Debiasing in Language Generation via Inference-time Adaptive Optimization

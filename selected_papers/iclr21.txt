@@ -1,0 +1,50 @@
+Multi-timescale Representation Learning in LSTM Language Models
+Rethinking Embedding Coupling in Pre-trained Language Models
+DEBERTA: DECODING-ENHANCED BERT WITH DISENTANGLED ATTENTION
+PABI: A Unified PAC-Bayesian Informativeness Measure for Incidental Supervision Signals
+A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks
+Minimum Description Length Recurrent Neural Networks
+Transformer protein language models are unsupervised structure learners
+Single Layers of Attention Suffice to Predict Protein Contacts
+A Text GAN for Language Generation with Non-Autoregressive Generator
+Translation Memory Guided Neural Machine Translation
+Deepening Hidden Representations from Pre-trained Language Models
+Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation
+EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets
+MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining
+Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data
+Language Models are Open Knowledge Graphs
+VilNMN: A Neural Module Network approach to Video-Grounded Language Tasks
+Symbol-Shift Equivariant Neural Networks
+Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning
+Structured Prediction as Translation between Augmented Natural Languages
+CoDA: Contrast-enhanced and Diversity-promoting Data Augmentation for Natural Language Understanding
+Geometry matters: Exploring language examples at the decision boundary
+ALFWorld: Aligning Text and Embodied Environments for Interactive Learning
+Exploring Routing Strategies for Multilingual Mixture-of-Experts Models
+Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation
+Mapping the Timescale Organization of Neural Language Models
+Progressively Stacking 2.0: A Multi-stage Layerwise Training Method for BERT Training Speedup
+Contrastive Learning of Medical Visual Representations from Paired Images and Text
+Discovering Non-monotonic Autoregressive Orderings with Variational Inference
+Compositional Video Synthesis with Action Graphs
+Grey-box Extraction of Natural Language Models
+ Adding Recurrence to Pretrained Transformers
+Monte-Carlo Planning and Learning with Language Action Value Estimates
+Does injecting linguistic structure into language models lead to better alignment with brain recordings?
+BROS: A Pre-trained Language Model for Understanding Texts in Document
+On the use of linguistic similarities to improve Neural Machine Translation for African Languages
+Transformer-QL: A Step Towards Making Transformer Network Quadratically Large
+You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling
+Language Controls More Than Top-Down Attention: Modulating Bottom-Up Visual Processing with Referring Expressions
+Improving Self-supervised Pre-training via a Fully-Explored Masked Language Model
+On Position Embeddings in BERT
+N-Bref : A High-fidelity Decompiler Exploiting Programming Structures 
+Crowd-sourced Phrase-Based Tokenization for Low-Resourced Neural Machine Translation: The case of Fon Language
+Random Feature Attention
+Representation and Bias in Multilingual NLP: Insights from Controlled Experiments on Conditional Language Modeling
+Modelling Hierarchical Structure between Dialogue Policy and Natural Language Generator with Option Framework for Task-oriented Dialogue System
+Learning to Recombine and Resample Data For Compositional Generalization
+Counterfactual Thinking for Long-tailed Information Extraction
+Pre-training Text-to-Text Transformers for Concept-centric Common Sense
+Learning to Infer Run-Time Invariants from Source code

@@ -1,0 +1,6974 @@
+{
+    "UNDERSTANDING HTML WITH LARGE LANGUAGE MODELS": {
+        "llm_review": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Data/Task",
+                "Experiment",
+                "Methodology"
+            ],
+            "3": [
+                "Contribution",
+                "Data/Task"
+            ],
+            "4": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "Comparison",
+                "Methodology"
+            ],
+            "6": [],
+            "7": [
+                "Methodology",
+                "Presentation"
+            ],
+            "8": [
+                "Contribution",
+                "Data/Task",
+                "Experiment"
+            ],
+            "9": [
+                "Methodology",
+                "Novelty"
+            ],
+            "10": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "11": [
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Contribution",
+                "Data/Task"
+            ],
+            "14": [
+                "Novelty",
+                "Presentation"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Data/Task"
+            ],
+            "5": [
+                "Data/Task",
+                "Presentation"
+            ],
+            "6": [
+                "Analysis",
+                "Data/Task"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Analysis",
+                "Experiment"
+            ],
+            "10": [
+                "Experiment"
+            ],
+            "11": [
+                "Methodology",
+                "Novelty"
+            ],
+            "12": [
+                "Presentation"
+            ],
+            "13": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "14": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "15": [
+                "Methodology",
+                "Novelty"
+            ],
+            "16": [
+                "Experiment"
+            ],
+            "17": [
+                "Data/Task"
+            ],
+            "18": [
+                "-"
+            ],
+            "19": [
+                "Methodology"
+            ],
+            "20": [
+                "Data/Task"
+            ],
+            "21": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "22": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "23": [
+                "Analysis"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Novelty"
+            ],
+            "2": [
+                "Comparison",
+                "Data/Task",
+                "Methodology"
+            ],
+            "3": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology"
+            ],
+            "4": [
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "Comparison",
+                "Methodology"
+            ],
+            "6": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "7": [
+                "Related Work"
+            ],
+            "8": [
+                "Methodology",
+                "Related Work"
+            ],
+            "9": [
+                "Related Work"
+            ],
+            "10": [
+                "Related Work"
+            ],
+            "11": [
+                "Methodology",
+                "Related Work"
+            ],
+            "12": [
+                "Related Work"
+            ],
+            "13": [
+                "Presentation"
+            ],
+            "14": [
+                "Experiment"
+            ],
+            "15": [
+                "Methodology",
+                "Novelty"
+            ],
+            "16": [
+                "Methodology"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "Experiment"
+            ],
+            "19": [
+                "Experiment"
+            ],
+            "20": [
+                "Comparison",
+                "Methodology"
+            ],
+            "21": [
+                "Novelty"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Analysis",
+                "Comparison",
+                "Data/Task",
+                "Evaluation",
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "2": [
+                "Data/Task"
+            ],
+            "3": [
+                "Methodology",
+                "Novelty"
+            ],
+            "4": [
+                "Data/Task"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Novelty",
+                "Presentation"
+            ],
+            "7": [
+                "Presentation"
+            ],
+            "8": [
+                "Methodology",
+                "Novelty"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "Analysis"
+            ],
+            "12": [
+                "Contribution",
+                "Novelty"
+            ],
+            "13": [
+                "-"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Contribution",
+                "Data/Task",
+                "Methodology",
+                "Novelty"
+            ],
+            "2": [
+                "Data/Task",
+                "Presentation",
+                "Result"
+            ],
+            "3": [
+                "Data/Task",
+                "Presentation"
+            ],
+            "4": [
+                "Data/Task",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "5": [
+                "Data/Task"
+            ],
+            "6": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "7": [
+                "Methodology",
+                "Novelty"
+            ],
+            "8": [
+                "Methodology",
+                "Result"
+            ],
+            "9": [
+                "Data/Task",
+                "Methodology",
+                "Presentation",
+                "Result"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "Presentation"
+            ],
+            "12": [
+                "Novelty"
+            ],
+            "13": [
+                "Methodology",
+                "Novelty"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Contribution",
+                "Data/Task",
+                "Methodology"
+            ],
+            "16": [
+                "Data/Task",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Presentation"
+            ],
+            "17": [
+                "Data/Task",
+                "Result"
+            ],
+            "18": [
+                "Methodology"
+            ]
+        }
+    },
+    "WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus": {
+        "llm_review": {
+            "0": [
+                "Experiment",
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "4": [
+                "Methodology",
+                "Presentation"
+            ],
+            "5": [
+                "Experiment",
+                "Presentation",
+                "Result"
+            ],
+            "6": [
+                "Data/Task",
+                "Methodology",
+                "Novelty"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Contribution",
+                "Data/Task"
+            ],
+            "9": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "10": [
+                "Methodology",
+                "Significance"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Data/Task"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [],
+            "3": [
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Contribution",
+                "Data/Task",
+                "Evaluation"
+            ],
+            "5": [
+                "Evaluation"
+            ],
+            "6": [
+                "Related Work"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "9": [
+                "Methodology",
+                "Presentation"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "Comparison",
+                "Data/Task",
+                "Methodology"
+            ],
+            "12": [
+                "Presentation"
+            ],
+            "13": [
+                "Data/Task"
+            ],
+            "14": [
+                "Data/Task",
+                "Novelty",
+                "Related Work"
+            ],
+            "15": [
+                "Comparison",
+                "Methodology"
+            ],
+            "16": [],
+            "17": [
+                "Analysis",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "18": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Data/Task"
+            ],
+            "21": [
+                "Methodology"
+            ],
+            "22": [
+                "Contribution"
+            ],
+            "23": [
+                "Data/Task"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Data/Task"
+            ],
+            "1": [
+                "Data/Task"
+            ],
+            "2": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "3": [
+                "Result"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "7": [
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "Data/Task"
+            ],
+            "9": [
+                "Presentation"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "Data/Task",
+                "Novelty"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "13": [
+                "Contribution",
+                "Data/Task"
+            ],
+            "14": [
+                "Methodology"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task"
+            ],
+            "2": [
+                "Data/Task"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "Data/Task"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "7": [
+                "Experiment"
+            ],
+            "8": [
+                "Ablation",
+                "Methodology"
+            ],
+            "9": [
+                "Related Work",
+                "Significance"
+            ],
+            "10": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation",
+                "Result"
+            ],
+            "11": [
+                "Evaluation"
+            ],
+            "12": [
+                "Evaluation"
+            ],
+            "13": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "14": [
+                "Analysis",
+                "Experiment"
+            ],
+            "15": [
+                "Analysis"
+            ],
+            "16": [
+                "Related Work"
+            ],
+            "17": [],
+            "18": [
+                "Evaluation",
+                "Related Work"
+            ],
+            "19": [
+                "Related Work"
+            ],
+            "20": [
+                "Related Work"
+            ],
+            "21": [
+                "Evaluation",
+                "Related Work"
+            ],
+            "22": [
+                "Related Work"
+            ],
+            "23": [
+                "Related Work"
+            ],
+            "24": [
+                "Related Work"
+            ],
+            "25": [
+                "Related Work"
+            ],
+            "26": [
+                "Related Work"
+            ],
+            "27": [
+                "Presentation"
+            ],
+            "28": [
+                "Methodology",
+                "Presentation"
+            ],
+            "29": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "30": [
+                "Data/Task"
+            ],
+            "31": [
+                "-"
+            ],
+            "32": [
+                "-"
+            ],
+            "33": [
+                "Data/Task"
+            ],
+            "34": [
+                "Experiment"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Data/Task"
+            ],
+            "1": [
+                "Data/Task",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "2": [
+                "Data/Task"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "9": [
+                "Comparison"
+            ],
+            "10": [
+                "Methodology",
+                "Novelty"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "-"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "17": [],
+            "18": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "19": [
+                "Novelty",
+                "Presentation"
+            ],
+            "20": [
+                "Related Work"
+            ],
+            "21": [
+                "-"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [
+                "Result"
+            ],
+            "24": [
+                "Methodology"
+            ],
+            "25": [
+                "-"
+            ]
+        }
+    },
+    "Pre-trained Language Models can be Fully Zero-Shot Learners ": {
+        "llm_review": {
+            "0": [
+                "Data/Task",
+                "Novelty"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Experiment",
+                "Methodology"
+            ],
+            "3": [],
+            "4": [
+                "Analysis",
+                "Comparison",
+                "Result"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Presentation"
+            ],
+            "7": [
+                "Contribution",
+                "Experiment",
+                "Novelty"
+            ],
+            "8": [
+                "Novelty"
+            ],
+            "9": [
+                "Data/Task"
+            ],
+            "10": [
+                "Contribution",
+                "Data/Task",
+                "Methodology"
+            ],
+            "11": [
+                "Data/Task",
+                "Methodology",
+                "Result",
+                "Significance"
+            ],
+            "12": [
+                "Result"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Result"
+            ],
+            "3": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [],
+            "12": [
+                "Novelty",
+                "Presentation"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Analysis",
+                "Data/Task",
+                "Result"
+            ],
+            "15": [
+                "Analysis"
+            ],
+            "16": [
+                "Result"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "Significance"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Experiment"
+            ],
+            "2": [
+                "Methodology",
+                "Novelty"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Methodology",
+                "Novelty"
+            ],
+            "5": [
+                "Presentation"
+            ],
+            "6": [
+                "Novelty"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Comparison",
+                "Result"
+            ],
+            "9": [
+                "Novelty"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "1": [
+                "Result"
+            ],
+            "2": [
+                "Presentation"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "6": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ]
+        }
+    },
+    "Leveraging Large Language Models for Multiple Choice Question Answering": {
+        "llm_review": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Novelty"
+            ],
+            "2": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology"
+            ],
+            "3": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "4": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "5": [
+                "Comparison",
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Novelty",
+                "Presentation"
+            ],
+            "8": [
+                "Evaluation",
+                "Experiment"
+            ],
+            "9": [
+                "Methodology",
+                "Novelty",
+                "Result"
+            ],
+            "10": [
+                "-",
+                "Experiment"
+            ],
+            "11": [
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Contribution",
+                "Methodology"
+            ],
+            "13": [
+                "Comparison",
+                "Methodology",
+                "Novelty",
+                "Significance"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Theory"
+            ],
+            "4": [
+                "Novelty"
+            ],
+            "5": [
+                "Analysis"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Comparison",
+                "Experiment",
+                "Methodology"
+            ],
+            "10": [
+                "Methodology",
+                "Result"
+            ],
+            "11": [
+                "Result"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Data/Task",
+                "Result"
+            ],
+            "14": [
+                "Experiment",
+                "Result"
+            ],
+            "15": [
+                "Result"
+            ],
+            "16": [
+                "Methodology"
+            ],
+            "17": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "18": [
+                "Methodology"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Novelty"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Experiment",
+                "Methodology",
+                "Presentation",
+                "Result"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Analysis"
+            ],
+            "11": [
+                "Presentation"
+            ],
+            "12": [
+                "Analysis"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "Methodology"
+            ],
+            "15": [
+                "Novelty"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "-"
+            ],
+            "19": [
+                "Evaluation"
+            ],
+            "20": [
+                "Analysis"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "1": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "2": [
+                "Presentation"
+            ],
+            "3": [
+                "Data/Task",
+                "Evaluation"
+            ],
+            "4": [
+                "Novelty"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Presentation"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Novelty"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "13": [
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "14": [
+                "Methodology",
+                "Novelty"
+            ]
+        }
+    },
+    "Words are all you need? Language as an approximation for human similarity judgments": {
+        "llm_review": {
+            "0": [
+                "Analysis",
+                "Evaluation"
+            ],
+            "1": [
+                "Contribution",
+                "Methodology"
+            ],
+            "2": [
+                "Data/Task"
+            ],
+            "3": [
+                "Experiment",
+                "Result"
+            ],
+            "4": [
+                "Analysis",
+                "Methodology"
+            ],
+            "5": [
+                "Methodology",
+                "Result"
+            ],
+            "6": [
+                "Data/Task"
+            ],
+            "7": [
+                "Data/Task"
+            ],
+            "8": [
+                "Analysis",
+                "Presentation"
+            ],
+            "9": [
+                "Data/Task",
+                "Experiment"
+            ],
+            "10": [
+                "Contribution",
+                "Methodology",
+                "Novelty"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology"
+            ],
+            "14": [
+                "Data/Task"
+            ],
+            "15": [
+                "Contribution",
+                "Methodology"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Data/Task",
+                "Evaluation"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "Presentation"
+            ],
+            "6": [
+                "Presentation"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "12": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "Comparison"
+            ],
+            "17": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "18": [
+                "-"
+            ],
+            "19": [
+                "Presentation"
+            ],
+            "20": [
+                "Evaluation"
+            ],
+            "21": [
+                "Presentation"
+            ],
+            "22": [
+                "Experiment",
+                "Methodology"
+            ],
+            "23": [
+                "Novelty"
+            ],
+            "24": [
+                "Novelty"
+            ],
+            "25": [
+                "Evaluation",
+                "Novelty"
+            ],
+            "26": [
+                "Evaluation"
+            ],
+            "27": [
+                "-"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Data/Task",
+                "Evaluation"
+            ],
+            "2": [
+                "Evaluation"
+            ],
+            "3": [
+                "Contribution"
+            ],
+            "4": [
+                "Comparison"
+            ],
+            "5": [
+                "Presentation"
+            ],
+            "6": [
+                "Data/Task",
+                "Evaluation"
+            ],
+            "7": [
+                "Novelty"
+            ],
+            "8": [
+                "Novelty"
+            ],
+            "9": [
+                "Experiment",
+                "Novelty"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Related Work"
+            ],
+            "5": [
+                "Presentation"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [
+                "Data/Task"
+            ],
+            "8": [
+                "Result"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Novelty",
+                "Presentation"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Presentation"
+            ],
+            "15": [
+                "-"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "1": [
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Data/Task"
+            ],
+            "3": [
+                "Data/Task",
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Data/Task",
+                "Related Work"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Experiment"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Experiment",
+                "Methodology"
+            ],
+            "14": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "15": [
+                "Methodology",
+                "Presentation"
+            ],
+            "16": [
+                "Methodology",
+                "Result"
+            ],
+            "17": [
+                "Comparison"
+            ],
+            "18": [
+                "Methodology"
+            ],
+            "19": [
+                "Novelty",
+                "Presentation"
+            ],
+            "20": [
+                "Experiment",
+                "Novelty"
+            ],
+            "21": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "22": [
+                "Experiment"
+            ],
+            "23": [
+                "Methodology"
+            ],
+            "24": [
+                "-"
+            ],
+            "25": [
+                "Experiment"
+            ],
+            "26": [
+                "Novelty",
+                "Related Work"
+            ],
+            "27": [
+                "Presentation",
+                "Related Work"
+            ]
+        }
+    },
+    "Pretrained Language Model in Continual Learning: A Comparative Study": {
+        "llm_review": {
+            "0": [
+                "Analysis",
+                "Methodology"
+            ],
+            "1": [
+                "Analysis",
+                "Data/Task",
+                "Methodology"
+            ],
+            "2": [
+                "Analysis",
+                "Data/Task",
+                "Methodology"
+            ],
+            "3": [
+                "Analysis"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Novelty",
+                "Presentation"
+            ],
+            "6": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "7": [
+                "Analysis",
+                "Contribution",
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "Analysis",
+                "Data/Task"
+            ],
+            "9": [
+                "Contribution",
+                "Methodology",
+                "Presentation"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Experiment",
+                "Novelty"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Data/Task",
+                "Result"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Data/Task"
+            ],
+            "6": [
+                "Methodology"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Experiment",
+                "Result"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Analysis",
+                "Methodology"
+            ],
+            "5": [
+                "Comparison",
+                "Methodology",
+                "Presentation"
+            ],
+            "6": [
+                "Methodology",
+                "Presentation"
+            ],
+            "7": [
+                "Comparison",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "8": [
+                "Analysis"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Experiment"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Analysis",
+                "Data/Task"
+            ],
+            "3": [
+                "Comparison",
+                "Result"
+            ],
+            "4": [
+                "Contribution"
+            ],
+            "5": [
+                "Result"
+            ],
+            "6": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Presentation"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Presentation"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation",
+                "Result"
+            ],
+            "16": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "17": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "18": [
+                "Evaluation",
+                "Intuition/Justification/Motivation/Validation",
+                "Result"
+            ],
+            "19": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Evaluation",
+                "Result"
+            ],
+            "20": [
+                "Methodology"
+            ],
+            "21": [
+                "Analysis",
+                "Result"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Analysis",
+                "Data/Task"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Analysis"
+            ],
+            "3": [
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Data/Task"
+            ],
+            "5": [
+                "Result"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Comparison",
+                "Methodology"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Presentation",
+                "Result"
+            ],
+            "12": [
+                "Methodology",
+                "Related Work"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "Presentation",
+                "Result"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "-"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Presentation"
+            ],
+            "21": [
+                "Methodology"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [
+                "Presentation"
+            ],
+            "24": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology"
+            ],
+            "25": [
+                "Analysis",
+                "Result"
+            ],
+            "26": [
+                "Methodology"
+            ],
+            "27": [
+                "Experiment",
+                "Presentation"
+            ],
+            "28": [
+                "-"
+            ],
+            "29": [
+                "-"
+            ],
+            "30": [
+                "Presentation"
+            ],
+            "31": [
+                "Methodology"
+            ],
+            "32": [
+                "-"
+            ]
+        }
+    },
+    "Exploring extreme parameter compression for pre-trained language models": {
+        "llm_review": {
+            "0": [
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Methodology",
+                "Novelty"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Comparison",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Theory"
+            ],
+            "6": [
+                "Presentation"
+            ],
+            "7": [
+                "Comparison",
+                "Experiment",
+                "Methodology"
+            ],
+            "8": [
+                "Methodology",
+                "Novelty"
+            ],
+            "9": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "10": [
+                "Contribution",
+                "Methodology"
+            ],
+            "11": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Evaluation",
+                "Methodology",
+                "Theory"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Comparison",
+                "Methodology"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "6": [
+                "Analysis",
+                "Methodology"
+            ],
+            "7": [
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Experiment",
+                "Methodology"
+            ],
+            "10": [],
+            "11": [
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Presentation"
+            ],
+            "13": [
+                "Comparison",
+                "Experiment",
+                "Related Work"
+            ],
+            "14": [
+                "Methodology",
+                "Related Work"
+            ],
+            "15": [
+                "Presentation"
+            ],
+            "16": [
+                "Methodology",
+                "Presentation"
+            ],
+            "17": [
+                "Related Work"
+            ],
+            "18": [
+                "Methodology",
+                "Related Work"
+            ],
+            "19": [
+                "Methodology"
+            ],
+            "20": [
+                "Analysis",
+                "Experiment",
+                "Methodology"
+            ],
+            "21": [
+                "-"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Ablation",
+                "Evaluation",
+                "Experiment",
+                "Methodology"
+            ],
+            "1": [
+                "Novelty"
+            ],
+            "2": [
+                "Contribution",
+                "Methodology"
+            ],
+            "3": [
+                "Analysis",
+                "Methodology"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Comparison"
+            ],
+            "6": [
+                "Ablation",
+                "Methodology"
+            ],
+            "7": [
+                "Experiment",
+                "Methodology"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Methodology",
+                "Related Work"
+            ],
+            "13": [
+                "Ablation",
+                "Methodology"
+            ],
+            "14": [
+                "Presentation"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Related Work",
+                "Result"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Methodology",
+                "Related Work"
+            ],
+            "3": [
+                "Related Work"
+            ],
+            "4": [
+                "Result"
+            ],
+            "5": [
+                "Methodology",
+                "Result"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Data/Task",
+                "Result"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Presentation"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Comparison",
+                "Data/Task",
+                "Methodology"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "Related Work"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Methodology"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "-"
+            ],
+            "19": [
+                "Result"
+            ],
+            "20": [
+                "-"
+            ],
+            "21": [
+                "Methodology",
+                "Related Work",
+                "Result"
+            ],
+            "22": [
+                "Result"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Analysis",
+                "Intuition/Justification/Motivation/Validation",
+                "Presentation"
+            ],
+            "1": [
+                "Presentation"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Contribution"
+            ],
+            "4": [
+                "Novelty"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Related Work"
+            ],
+            "10": [
+                "Comparison"
+            ],
+            "11": [
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "-"
+            ],
+            "13": [],
+            "14": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "Result"
+            ],
+            "19": [
+                "Result"
+            ],
+            "20": [
+                "Methodology"
+            ],
+            "21": [
+                "Ablation",
+                "Result"
+            ]
+        }
+    },
+    "Recitation-Augmented Language Models": {
+        "llm_review": {
+            "0": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Methodology",
+                "Presentation"
+            ],
+            "3": [
+                "Methodology",
+                "Novelty"
+            ],
+            "4": [
+                "Comparison",
+                "Experiment",
+                "Novelty"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "6": [
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "7": [
+                "Contribution"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Presentation"
+            ],
+            "3": [
+                "Analysis",
+                "Presentation"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "6": [],
+            "7": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "8": [
+                "Presentation"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Presentation"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "Presentation"
+            ],
+            "17": [
+                "Presentation"
+            ],
+            "18": [
+                "Presentation"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "-"
+            ],
+            "21": [
+                "-"
+            ],
+            "22": [
+                "Presentation"
+            ],
+            "23": [
+                "Methodology"
+            ],
+            "24": [
+                "Methodology"
+            ],
+            "25": [
+                "-",
+                "Data/Task"
+            ],
+            "26": [
+                "-"
+            ],
+            "27": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "28": [
+                "Methodology"
+            ],
+            "29": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "30": [
+                "Related Work"
+            ],
+            "31": [
+                "-"
+            ],
+            "32": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "33": [
+                "Related Work"
+            ],
+            "34": [
+                "Presentation"
+            ],
+            "35": [
+                "-"
+            ],
+            "36": [
+                "Intuition/Justification/Motivation/Validation",
+                "Novelty"
+            ],
+            "37": [
+                "-"
+            ],
+            "38": [
+                "Analysis",
+                "Presentation"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Novelty",
+                "Presentation"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Methodology",
+                "Result"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Result"
+            ],
+            "9": [
+                "Methodology",
+                "Result"
+            ],
+            "10": [
+                "Result"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Methodology"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "17": [
+                "Methodology"
+            ],
+            "18": [
+                "Result"
+            ],
+            "19": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "20": [
+                "Methodology"
+            ],
+            "21": [
+                "Methodology"
+            ],
+            "22": [
+                "Methodology"
+            ],
+            "23": [
+                "-"
+            ],
+            "24": [
+                "Result"
+            ],
+            "25": [
+                "-"
+            ],
+            "26": [
+                "-"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Analysis",
+                "Comparison",
+                "Experiment",
+                "Presentation",
+                "Result"
+            ],
+            "6": [
+                "Experiment",
+                "Methodology"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Methodology",
+                "Result"
+            ],
+            "9": [
+                "Experiment",
+                "Methodology"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Comparison",
+                "Result"
+            ],
+            "14": [
+                "Methodology",
+                "Result"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Result"
+            ],
+            "17": [
+                "Methodology"
+            ],
+            "18": [
+                "Data/Task",
+                "Experiment",
+                "Methodology"
+            ],
+            "19": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "20": [
+                "Methodology"
+            ],
+            "21": [
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "22": [
+                "Data/Task",
+                "Experiment",
+                "Methodology"
+            ],
+            "23": [
+                "Related Work"
+            ],
+            "24": [
+                "Presentation"
+            ],
+            "25": [
+                "Novelty",
+                "Presentation"
+            ],
+            "26": [
+                "Data/Task",
+                "Experiment",
+                "Methodology"
+            ],
+            "27": [
+                "Novelty"
+            ],
+            "28": [
+                "Novelty"
+            ],
+            "29": [
+                "-"
+            ],
+            "30": [
+                "Evaluation",
+                "Intuition/Justification/Motivation/Validation",
+                "Result"
+            ],
+            "31": [
+                "Experiment"
+            ],
+            "32": [
+                "-"
+            ],
+            "33": [
+                "Result"
+            ],
+            "34": [
+                "Result"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Comparison",
+                "Result"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Methodology",
+                "Result"
+            ],
+            "6": [],
+            "7": [
+                "Comparison"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Methodology",
+                "Result"
+            ],
+            "10": [
+                "Methodology",
+                "Result"
+            ],
+            "11": [
+                "Novelty",
+                "Presentation"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "13": [
+                "Methodology",
+                "Result"
+            ]
+        }
+    },
+    "P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts": {
+        "llm_review": {
+            "0": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Experiment",
+                "Result"
+            ],
+            "2": [
+                "Presentation"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Analysis",
+                "Evaluation",
+                "Methodology"
+            ],
+            "5": [
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "6": [
+                "Methodology",
+                "Novelty"
+            ],
+            "7": [
+                "Comparison",
+                "Contribution",
+                "Methodology",
+                "Novelty"
+            ],
+            "8": [
+                "-",
+                "Data/Task"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Contribution",
+                "Methodology"
+            ],
+            "11": [
+                "Analysis",
+                "Evaluation",
+                "Novelty",
+                "Presentation"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Methodology",
+                "Presentation"
+            ],
+            "2": [
+                "Analysis",
+                "Data/Task",
+                "Experiment",
+                "Result"
+            ],
+            "3": [
+                "Evaluation",
+                "Result"
+            ],
+            "4": [],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Presentation"
+            ],
+            "9": [
+                "Data/Task",
+                "Evaluation",
+                "Presentation"
+            ],
+            "10": [
+                "Data/Task",
+                "Methodology",
+                "Related Work"
+            ],
+            "11": [
+                "Data/Task"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "13": [
+                "Data/Task",
+                "Result"
+            ],
+            "14": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "15": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "16": [
+                "Methodology",
+                "Presentation"
+            ],
+            "17": [
+                "Methodology"
+            ],
+            "18": [
+                "-"
+            ],
+            "19": [
+                "Presentation"
+            ],
+            "20": [
+                "-"
+            ],
+            "21": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "22": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "23": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "24": [
+                "Methodology"
+            ],
+            "25": [
+                "Methodology"
+            ],
+            "26": [
+                "Methodology"
+            ],
+            "27": [
+                "Comparison",
+                "Methodology"
+            ],
+            "28": [
+                "Presentation"
+            ],
+            "29": [
+                "Methodology"
+            ],
+            "30": [
+                "Methodology"
+            ],
+            "31": [
+                "Methodology"
+            ],
+            "32": [
+                "Methodology"
+            ],
+            "33": [
+                "Methodology"
+            ],
+            "34": [
+                "Presentation"
+            ],
+            "35": [
+                "Presentation"
+            ],
+            "36": [
+                "Experiment",
+                "Result"
+            ],
+            "37": [
+                "Analysis",
+                "Methodology",
+                "Result"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Data/Task"
+            ],
+            "4": [
+                "Analysis"
+            ],
+            "5": [
+                "Methodology",
+                "Result"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Comparison",
+                "Data/Task",
+                "Methodology"
+            ],
+            "4": [
+                "Methodology",
+                "Presentation"
+            ],
+            "5": [
+                "Methodology",
+                "Related Work"
+            ],
+            "6": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Related Work",
+                "Result"
+            ],
+            "7": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "8": [
+                "Comparison",
+                "Methodology"
+            ],
+            "9": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "10": [
+                "Data/Task",
+                "Methodology",
+                "Related Work"
+            ],
+            "11": [
+                "Data/Task",
+                "Methodology",
+                "Related Work"
+            ],
+            "12": [
+                "Result"
+            ],
+            "13": [
+                "Evaluation"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "Methodology"
+            ],
+            "17": [
+                "Methodology",
+                "Result"
+            ],
+            "18": [
+                "Methodology",
+                "Result"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Methodology",
+                "Result"
+            ],
+            "21": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [
+                "Comparison",
+                "Presentation",
+                "Related Work",
+                "Result"
+            ],
+            "24": [
+                "Comparison",
+                "Result"
+            ],
+            "25": [
+                "Evaluation",
+                "Result"
+            ],
+            "26": [
+                "Methodology",
+                "Presentation"
+            ],
+            "27": [
+                "-"
+            ],
+            "28": [
+                "-"
+            ],
+            "29": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "30": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "31": [
+                "Presentation",
+                "Result"
+            ],
+            "32": [
+                "Result"
+            ],
+            "33": [
+                "Related Work"
+            ],
+            "34": [
+                "Methodology",
+                "Related Work"
+            ],
+            "35": [
+                "Related Work"
+            ],
+            "36": [
+                "Related Work"
+            ],
+            "37": [
+                "Related Work"
+            ],
+            "38": [
+                "Related Work"
+            ],
+            "39": [
+                "Related Work"
+            ],
+            "40": [
+                "Related Work"
+            ],
+            "41": [
+                "-"
+            ],
+            "42": [
+                "Related Work"
+            ],
+            "43": [
+                "Related Work"
+            ],
+            "44": [
+                "Related Work"
+            ],
+            "45": [
+                "Related Work"
+            ],
+            "46": [
+                "Related Work"
+            ],
+            "47": [
+                "Related Work"
+            ],
+            "48": [
+                "Related Work"
+            ],
+            "49": [],
+            "50": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "51": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Result"
+            ],
+            "52": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Result"
+            ],
+            "53": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Result"
+            ],
+            "54": [
+                "Data/Task",
+                "Methodology"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Presentation"
+            ],
+            "4": [
+                "Analysis",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment",
+                "Methodology"
+            ],
+            "5": [
+                "Experiment"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [],
+            "8": [
+                "Result"
+            ],
+            "9": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "10": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation",
+                "Result"
+            ],
+            "11": [
+                "Analysis",
+                "Experiment",
+                "Methodology"
+            ]
+        },
+        "review#5": {
+            "0": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "1": [
+                "Related Work"
+            ],
+            "2": [
+                "Comparison",
+                "Related Work"
+            ],
+            "3": [
+                "Result"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "12": [
+                "Intuition/Justification/Motivation/Validation",
+                "Presentation"
+            ],
+            "13": [
+                "Experiment",
+                "Methodology"
+            ],
+            "14": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment",
+                "Methodology"
+            ],
+            "17": [
+                "Methodology"
+            ],
+            "18": [
+                "Comparison",
+                "Result"
+            ],
+            "19": [
+                "Experiment"
+            ],
+            "20": [
+                "Methodology",
+                "Result"
+            ],
+            "21": [
+                "-"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [
+                "-"
+            ],
+            "24": [
+                "Experiment"
+            ],
+            "25": [
+                "Experiment"
+            ],
+            "26": [
+                "-"
+            ],
+            "27": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "28": [
+                "Methodology"
+            ],
+            "29": [
+                "Experiment",
+                "Methodology"
+            ],
+            "30": [
+                "Experiment"
+            ],
+            "31": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "32": [
+                "Data/Task"
+            ],
+            "33": [
+                "-"
+            ]
+        }
+    },
+    "Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models": {
+        "llm_review": {
+            "0": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "1": [
+                "Analysis",
+                "Data/Task",
+                "Methodology",
+                "Result",
+                "Theory"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Data/Task",
+                "Experiment",
+                "Methodology"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Methodology",
+                "Presentation"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Evaluation",
+                "Methodology",
+                "Novelty"
+            ],
+            "8": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "9": [
+                "Contribution",
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Analysis",
+                "Data/Task",
+                "Methodology",
+                "Theory"
+            ],
+            "12": [
+                "Novelty",
+                "Presentation"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Experiment"
+            ],
+            "2": [
+                "Result",
+                "Theory"
+            ],
+            "3": [
+                "Result"
+            ],
+            "4": [
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "Methodology",
+                "Result"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "9": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "10": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "11": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "12": [
+                "Presentation"
+            ],
+            "13": [
+                "Novelty"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "-"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "3": [
+                "Result",
+                "Theory"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "6": [
+                "Comparison",
+                "Data/Task",
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "7": [
+                "Data/Task",
+                "Result"
+            ],
+            "8": [
+                "Data/Task",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "9": [
+                "Novelty",
+                "Presentation"
+            ],
+            "10": [
+                "Result",
+                "Theory"
+            ],
+            "11": [
+                "Data/Task",
+                "Intuition/Justification/Motivation/Validation",
+                "Result"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [],
+            "6": [
+                "Comparison"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Theory"
+            ],
+            "10": [
+                "Intuition/Justification/Motivation/Validation",
+                "Novelty",
+                "Presentation"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Analysis",
+                "Data/Task",
+                "Methodology",
+                "Result",
+                "Theory"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Theory"
+            ],
+            "7": [
+                "Experiment",
+                "Methodology"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Methodology",
+                "Presentation"
+            ],
+            "10": [
+                "Methodology",
+                "Theory"
+            ],
+            "11": [
+                "Related Work"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Methodology",
+                "Presentation"
+            ],
+            "14": [
+                "Methodology"
+            ],
+            "15": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "16": [
+                "Comparison",
+                "Experiment",
+                "Methodology"
+            ],
+            "17": [
+                "Comparison",
+                "Methodology",
+                "Related Work"
+            ],
+            "18": [
+                "Methodology",
+                "Presentation"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Analysis"
+            ],
+            "21": [
+                "Methodology"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [],
+            "24": [
+                "Related Work"
+            ],
+            "25": [
+                "Methodology",
+                "Related Work"
+            ],
+            "26": [
+                "Related Work"
+            ],
+            "27": [
+                "Related Work"
+            ],
+            "28": [
+                "Related Work"
+            ],
+            "29": [
+                "Methodology",
+                "Related Work"
+            ],
+            "30": [
+                "Related Work"
+            ],
+            "31": [
+                "Related Work"
+            ],
+            "32": [
+                "Methodology",
+                "Related Work"
+            ],
+            "33": [
+                "Related Work"
+            ],
+            "34": [],
+            "35": [
+                "Related Work"
+            ],
+            "36": [
+                "Related Work"
+            ],
+            "37": [
+                "Related Work"
+            ],
+            "38": [
+                "Related Work"
+            ],
+            "39": [
+                "Related Work"
+            ],
+            "40": [
+                "Related Work"
+            ],
+            "41": [
+                "Related Work"
+            ],
+            "42": [
+                "Evaluation",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Novelty",
+                "Presentation"
+            ],
+            "43": [
+                "-"
+            ],
+            "44": [
+                "Methodology"
+            ],
+            "45": [
+                "Analysis",
+                "Theory"
+            ],
+            "46": [
+                "-"
+            ]
+        }
+    },
+    "Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models": {
+        "llm_review": {
+            "0": [
+                "Methodology",
+                "Novelty",
+                "Significance"
+            ],
+            "1": [
+                "Methodology",
+                "Significance"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Data/Task",
+                "Experiment",
+                "Result"
+            ],
+            "4": [
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "5": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "9": [
+                "Result"
+            ],
+            "10": [
+                "Contribution",
+                "Methodology",
+                "Novelty"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Novelty",
+                "Significance"
+            ],
+            "15": [
+                "Presentation"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Data/Task",
+                "Evaluation"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Ablation"
+            ],
+            "3": [
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Comparison"
+            ],
+            "5": [
+                "Analysis"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Data/Task",
+                "Experiment",
+                "Result"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Presentation",
+                "Result"
+            ],
+            "13": [
+                "Analysis"
+            ],
+            "14": [
+                "Novelty",
+                "Presentation"
+            ],
+            "15": [
+                "Data/Task",
+                "Presentation"
+            ],
+            "16": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "17": [
+                "Data/Task",
+                "Methodology",
+                "Related Work"
+            ],
+            "18": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Ablation",
+                "Analysis",
+                "Comparison",
+                "Presentation"
+            ],
+            "21": [
+                "-"
+            ],
+            "22": [
+                "-"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "1": [
+                "Ablation",
+                "Methodology"
+            ],
+            "2": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment",
+                "Methodology",
+                "Presentation",
+                "Result"
+            ],
+            "3": [
+                "Ablation",
+                "Analysis",
+                "Result"
+            ],
+            "4": [
+                "Comparison",
+                "Result"
+            ],
+            "5": [
+                "Data/Task"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Experiment",
+                "Novelty",
+                "Presentation"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "-"
+            ],
+            "13": [
+                "Methodology",
+                "Presentation"
+            ],
+            "14": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "17": [
+                "Ablation",
+                "Analysis",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Data/Task"
+            ],
+            "3": [
+                "Comparison",
+                "Data/Task",
+                "Methodology"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Novelty",
+                "Presentation"
+            ],
+            "6": [
+                "Methodology",
+                "Novelty"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "-"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Contribution",
+                "Presentation"
+            ],
+            "1": [
+                "Comparison",
+                "Result"
+            ],
+            "2": [
+                "Data/Task",
+                "Evaluation",
+                "Experiment"
+            ],
+            "3": [
+                "Ablation",
+                "Analysis"
+            ],
+            "4": [
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology",
+                "Presentation"
+            ],
+            "7": [
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "Data/Task",
+                "Presentation"
+            ],
+            "9": [],
+            "10": [
+                "Related Work"
+            ],
+            "11": [
+                "Ablation"
+            ],
+            "12": [
+                "Result"
+            ],
+            "13": [
+                "Result"
+            ],
+            "14": [
+                "Data/Task",
+                "Result"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Methodology",
+                "Novelty",
+                "Presentation"
+            ],
+            "17": [
+                "Methodology",
+                "Novelty"
+            ],
+            "18": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "19": [
+                "Novelty",
+                "Presentation"
+            ],
+            "20": [
+                "Ablation",
+                "Analysis"
+            ],
+            "21": [
+                "Ablation",
+                "Data/Task",
+                "Methodology"
+            ]
+        }
+    },
+    "Recursion of Thought: Divide and Conquer Reasoning with Language Models": {
+        "llm_review": {
+            "0": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Comparison",
+                "Experiment"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "6": [
+                "Experiment",
+                "Methodology",
+                "Novelty",
+                "Presentation",
+                "Result"
+            ],
+            "7": [
+                "Experiment",
+                "Methodology"
+            ],
+            "8": [
+                "Novelty"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Contribution",
+                "Data/Task"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "6": [
+                "Methodology",
+                "Result"
+            ],
+            "7": [
+                "Presentation"
+            ],
+            "8": [
+                "Data/Task",
+                "Related Work",
+                "Result"
+            ],
+            "9": [
+                "Data/Task",
+                "Theory"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Presentation"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "2": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "3": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "Data/Task",
+                "Novelty"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [],
+            "8": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "9": [
+                "-"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Novelty"
+            ],
+            "1": [
+                "Experiment",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Methodology",
+                "Result"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "9": [
+                "Methodology",
+                "Presentation"
+            ],
+            "10": [
+                "Novelty"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Methodology"
+            ],
+            "15": [
+                "Experiment",
+                "Methodology"
+            ],
+            "16": [
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Novelty",
+                "Presentation"
+            ],
+            "17": [
+                "Novelty"
+            ],
+            "18": [
+                "Methodology"
+            ],
+            "19": [
+                "Methodology"
+            ]
+        }
+    },
+    "Thrust: Adaptively Propels Large Language Models with External Knowledge": {
+        "llm_review": {
+            "0": [
+                "Methodology",
+                "Novelty"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "Comparison",
+                "Methodology",
+                "Novelty"
+            ],
+            "5": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "6": [
+                "Novelty",
+                "Presentation"
+            ],
+            "7": [
+                "Experiment"
+            ],
+            "8": [
+                "Comparison",
+                "Novelty"
+            ],
+            "9": [
+                "Data/Task"
+            ],
+            "10": [
+                "Methodology",
+                "Novelty"
+            ],
+            "11": [
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Comparison",
+                "Methodology",
+                "Novelty"
+            ],
+            "13": [
+                "-"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Novelty"
+            ],
+            "1": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment",
+                "Presentation"
+            ],
+            "2": [
+                "Data/Task",
+                "Presentation",
+                "Result"
+            ],
+            "3": [
+                "Result"
+            ],
+            "4": [
+                "Comparison"
+            ],
+            "5": [
+                "-",
+                "Presentation"
+            ],
+            "6": [
+                "Presentation"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Presentation"
+            ],
+            "6": [
+                "Presentation"
+            ],
+            "7": [
+                "Comparison",
+                "Result"
+            ],
+            "8": [
+                "Evaluation"
+            ],
+            "9": [
+                "Related Work"
+            ],
+            "10": [
+                "Related Work"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Related Work"
+            ],
+            "13": [
+                "Related Work"
+            ],
+            "14": [
+                "Related Work"
+            ],
+            "15": [
+                "Intuition/Justification/Motivation/Validation",
+                "Novelty",
+                "Presentation"
+            ],
+            "16": [
+                "Evaluation"
+            ],
+            "17": [
+                "Evaluation",
+                "Related Work"
+            ],
+            "18": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "19": [
+                "Evaluation"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "1": [
+                "Presentation"
+            ],
+            "2": [
+                "Comparison"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "7": [
+                "Methodology",
+                "Related Work"
+            ],
+            "8": [
+                "Intuition/Justification/Motivation/Validation",
+                "Related Work"
+            ],
+            "9": [
+                "Evaluation",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "10": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Comparison"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "Presentation"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "Comparison",
+                "Experiment",
+                "Presentation"
+            ],
+            "17": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "18": [
+                "-"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Methodology",
+                "Novelty"
+            ],
+            "1": [
+                "Data/Task"
+            ],
+            "2": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "3": [
+                "Experiment",
+                "Methodology"
+            ],
+            "4": [
+                "Experiment",
+                "Methodology"
+            ],
+            "5": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "6": [
+                "Experiment",
+                "Methodology"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Result"
+            ],
+            "9": [
+                "Methodology",
+                "Result"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Comparison"
+            ],
+            "12": [
+                "Comparison",
+                "Methodology"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Intuition/Justification/Motivation/Validation",
+                "Novelty",
+                "Presentation"
+            ],
+            "17": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment"
+            ],
+            "18": [
+                "Experiment"
+            ],
+            "19": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation",
+                "Result"
+            ],
+            "20": [
+                "Presentation"
+            ],
+            "21": [
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "22": [
+                "Experiment"
+            ],
+            "23": [
+                "Experiment",
+                "Methodology"
+            ]
+        }
+    },
+    "Cramming: Training a language model on a single GPU in one day": {
+        "llm_review": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Analysis",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "5": [
+                "Methodology",
+                "Presentation"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Analysis",
+                "Experiment",
+                "Methodology"
+            ],
+            "8": [
+                "Methodology",
+                "Novelty"
+            ],
+            "9": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "10": [
+                "Methodology",
+                "Result"
+            ],
+            "11": [
+                "Analysis",
+                "Methodology"
+            ],
+            "12": [
+                "Contribution",
+                "Methodology"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Data/Task",
+                "Result"
+            ],
+            "5": [
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "6": [],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Presentation"
+            ],
+            "11": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Methodology",
+                "Novelty"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Methodology"
+            ],
+            "17": [
+                "Result"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Experiment",
+                "Related Work"
+            ],
+            "2": [
+                "Data/Task",
+                "Result"
+            ],
+            "3": [
+                "Ablation",
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Result"
+            ],
+            "5": [
+                "Result"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "9": [
+                "Comparison",
+                "Data/Task",
+                "Methodology"
+            ],
+            "10": [
+                "Methodology",
+                "Result"
+            ],
+            "11": [
+                "Data/Task"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology",
+                "Presentation"
+            ],
+            "13": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "14": [
+                "Methodology"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Methodology"
+            ],
+            "17": [],
+            "18": [
+                "Methodology"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Experiment",
+                "Methodology"
+            ],
+            "21": [
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "22": [
+                "Methodology",
+                "Presentation",
+                "Result"
+            ],
+            "23": [
+                "Experiment",
+                "Result"
+            ],
+            "24": [
+                "Methodology",
+                "Result"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Significance"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Experiment"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "6": [
+                "Data/Task"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Data/Task",
+                "Result"
+            ],
+            "9": [
+                "Novelty"
+            ],
+            "10": [
+                "Contribution"
+            ],
+            "11": [
+                "Novelty",
+                "Presentation"
+            ],
+            "12": [
+                "-"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Contribution",
+                "Methodology"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "8": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Result"
+            ],
+            "11": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "12": [
+                "Methodology",
+                "Result"
+            ],
+            "13": [
+                "Result"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Presentation"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "-"
+            ],
+            "18": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "19": [
+                "Result"
+            ],
+            "20": [
+                "Presentation"
+            ],
+            "21": [
+                "-"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [],
+            "24": [
+                "Methodology"
+            ]
+        }
+    },
+    "Mapping Language Models to Grounded Conceptual Spaces": {
+        "llm_review": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "2": [
+                "Analysis",
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "6": [
+                "Analysis",
+                "Experiment"
+            ],
+            "7": [
+                "Methodology",
+                "Novelty"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Contribution",
+                "Methodology"
+            ],
+            "11": [
+                "Analysis",
+                "Evaluation"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Experiment",
+                "Methodology"
+            ],
+            "2": [
+                "Presentation"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "Data/Task",
+                "Result"
+            ],
+            "5": [
+                "Evaluation"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Methodology",
+                "Presentation"
+            ],
+            "8": [
+                "Result"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Result"
+            ],
+            "13": [
+                "Presentation",
+                "Result"
+            ],
+            "14": [
+                "Experiment",
+                "Methodology"
+            ],
+            "15": [
+                "Presentation"
+            ],
+            "16": [
+                "Result"
+            ],
+            "17": [
+                "Experiment",
+                "Methodology"
+            ],
+            "18": [
+                "Methodology"
+            ],
+            "19": [
+                "Related Work"
+            ],
+            "20": [
+                "Methodology",
+                "Result"
+            ],
+            "21": [
+                "-"
+            ],
+            "22": [
+                "Comparison",
+                "Result"
+            ],
+            "23": [
+                "Experiment"
+            ],
+            "24": [
+                "-",
+                "Presentation"
+            ],
+            "25": [
+                "Analysis"
+            ],
+            "26": [
+                "-"
+            ],
+            "27": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "28": [
+                "Experiment",
+                "Methodology"
+            ],
+            "29": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "30": [
+                "Significance"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Presentation"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Presentation"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "Presentation"
+            ],
+            "9": [],
+            "10": [
+                "Related Work"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "14": [
+                "Presentation"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Experiment",
+                "Methodology"
+            ],
+            "2": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "3": [
+                "Significance"
+            ],
+            "4": [
+                "Result"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Data/Task",
+                "Experiment",
+                "Methodology"
+            ],
+            "7": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [],
+            "10": [
+                "Evaluation",
+                "Experiment",
+                "Result"
+            ],
+            "11": [
+                "Methodology",
+                "Presentation"
+            ],
+            "12": [],
+            "13": [
+                "Methodology"
+            ],
+            "14": [],
+            "15": [
+                "Presentation"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "Methodology",
+                "Related Work"
+            ],
+            "18": [
+                "Experiment"
+            ],
+            "19": [
+                "Methodology"
+            ],
+            "20": [
+                "Presentation"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Experiment"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Comparison",
+                "Result"
+            ],
+            "3": [
+                "Result"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Comparison"
+            ],
+            "11": [
+                "Related Work"
+            ],
+            "12": [
+                "Comparison",
+                "Data/Task",
+                "Related Work"
+            ],
+            "13": [
+                "Result"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Comparison",
+                "Result"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "Result"
+            ],
+            "18": [
+                "Methodology"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Comparison"
+            ],
+            "21": [
+                "Data/Task"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [
+                "-"
+            ],
+            "24": [
+                "Experiment"
+            ],
+            "25": [
+                "Methodology"
+            ],
+            "26": [
+                "Methodology",
+                "Related Work"
+            ],
+            "27": [
+                "Related Work"
+            ],
+            "28": [
+                "Methodology"
+            ],
+            "29": [
+                "-"
+            ],
+            "30": [
+                "Methodology"
+            ],
+            "31": [
+                "Comparison"
+            ],
+            "32": [
+                "Methodology"
+            ],
+            "33": [
+                "Comparison",
+                "Methodology"
+            ],
+            "34": [
+                "Experiment",
+                "Methodology"
+            ],
+            "35": [
+                "-"
+            ],
+            "36": [
+                "Methodology"
+            ],
+            "37": [
+                "Methodology"
+            ],
+            "38": [
+                "Methodology"
+            ],
+            "39": [
+                "Methodology"
+            ],
+            "40": [
+                "Methodology"
+            ],
+            "41": [
+                "Methodology"
+            ],
+            "42": [
+                "Methodology"
+            ],
+            "43": [
+                "Methodology"
+            ],
+            "44": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Related Work"
+            ],
+            "45": [
+                "Experiment"
+            ],
+            "46": [
+                "-"
+            ],
+            "47": [
+                "Experiment",
+                "Methodology"
+            ],
+            "48": [
+                "Methodology"
+            ],
+            "49": [
+                "-"
+            ],
+            "50": [
+                "-"
+            ],
+            "51": [
+                "Comparison"
+            ],
+            "52": [
+                "Comparison",
+                "Experiment"
+            ],
+            "53": [
+                "Result"
+            ],
+            "54": [
+                "Methodology",
+                "Result"
+            ],
+            "55": [
+                "Comparison",
+                "Methodology",
+                "Result"
+            ],
+            "56": [
+                "Result"
+            ],
+            "57": [
+                "Experiment",
+                "Result"
+            ],
+            "58": [
+                "-"
+            ],
+            "59": [
+                "Comparison"
+            ],
+            "60": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "61": [
+                "Presentation"
+            ],
+            "62": [
+                "-"
+            ],
+            "63": [
+                "-"
+            ],
+            "64": [
+                "-"
+            ],
+            "65": [
+                "-"
+            ],
+            "66": [
+                "-"
+            ],
+            "67": [
+                "Evaluation",
+                "Result"
+            ],
+            "68": [
+                "Data/Task",
+                "Methodology",
+                "Presentation"
+            ],
+            "69": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "70": [
+                "Data/Task"
+            ],
+            "71": [],
+            "72": [
+                "Data/Task"
+            ],
+            "73": [
+                "Presentation",
+                "Related Work"
+            ],
+            "74": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "75": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "76": [
+                "Data/Task"
+            ],
+            "77": [
+                "Presentation"
+            ],
+            "78": [
+                "-"
+            ],
+            "79": [
+                "Presentation",
+                "Related Work"
+            ],
+            "80": [
+                "-",
+                "Related Work"
+            ],
+            "81": [
+                "-"
+            ],
+            "82": [
+                "Result"
+            ],
+            "83": [
+                "Result"
+            ],
+            "84": [
+                "Experiment"
+            ]
+        }
+    },
+    "Capturing Structural Locality in Non-parametric Language Models": {
+        "llm_review": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Contribution",
+                "Evaluation",
+                "Methodology"
+            ],
+            "3": [
+                "Analysis",
+                "Data/Task"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "6": [
+                "Analysis",
+                "Experiment"
+            ],
+            "7": [
+                "Methodology",
+                "Novelty"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Experiment",
+                "Methodology"
+            ],
+            "10": [
+                "Methodology",
+                "Result"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Contribution",
+                "Methodology"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "1": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "2": [
+                "Analysis",
+                "Data/Task",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "3": [
+                "Analysis",
+                "Methodology"
+            ],
+            "4": [
+                "Data/Task"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Presentation"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [],
+            "10": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "11": [
+                "Methodology",
+                "Result"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Methodology",
+                "Novelty"
+            ],
+            "3": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Presentation"
+            ],
+            "4": [
+                "Result"
+            ],
+            "5": [
+                "Data/Task"
+            ],
+            "6": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Data/Task",
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "13": [
+                "Data/Task"
+            ],
+            "14": [
+                "Analysis",
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "-"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Methodology",
+                "Presentation"
+            ],
+            "1": [
+                "Data/Task",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Data/Task",
+                "Result"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Contribution",
+                "Methodology"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Contribution",
+                "Novelty"
+            ],
+            "4": [
+                "Comparison",
+                "Methodology"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Contribution",
+                "Data/Task"
+            ],
+            "8": [
+                "Data/Task",
+                "Result"
+            ],
+            "9": [
+                "Contribution",
+                "Methodology"
+            ],
+            "10": [
+                "Contribution"
+            ],
+            "11": [
+                "Result"
+            ],
+            "12": [
+                "-"
+            ]
+        }
+    },
+    "Using Document Similarity Methods to create Parallel Datasets for Code Translation": {
+        "llm_review": {
+            "0": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "1": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "7": [
+                "Analysis",
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "8": [
+                "Contribution",
+                "Data/Task",
+                "Novelty"
+            ],
+            "9": [
+                "Data/Task",
+                "Presentation"
+            ],
+            "10": [
+                "Contribution",
+                "Data/Task",
+                "Methodology"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "13": [
+                "Methodology"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Presentation"
+            ],
+            "3": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "4": [
+                "Data/Task",
+                "Result"
+            ],
+            "5": [
+                "Data/Task"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Result"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Result"
+            ],
+            "10": [
+                "Data/Task"
+            ],
+            "11": [
+                "Methodology",
+                "Result"
+            ],
+            "12": [
+                "Methodology"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Presentation"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Evaluation",
+                "Experiment",
+                "Methodology"
+            ],
+            "4": [
+                "Result"
+            ],
+            "5": [
+                "Result"
+            ],
+            "6": [
+                "Evaluation"
+            ],
+            "7": [
+                "Evaluation",
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "8": [
+                "Evaluation",
+                "Related Work"
+            ],
+            "9": [
+                "Result"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Methodology"
+            ],
+            "13": [
+                "Related Work"
+            ],
+            "14": [
+                "Related Work"
+            ],
+            "15": [
+                "Related Work"
+            ],
+            "16": [
+                "Related Work"
+            ],
+            "17": [
+                "Related Work"
+            ],
+            "18": [
+                "Related Work"
+            ],
+            "19": [
+                "Presentation"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Data/Task"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "Result"
+            ],
+            "6": [
+                "Experiment"
+            ],
+            "7": [
+                "Data/Task",
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "8": [],
+            "9": [
+                "Experiment",
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "10": [],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "-"
+            ],
+            "13": [
+                "-"
+            ],
+            "14": [
+                "Data/Task",
+                "Result"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task"
+            ],
+            "2": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "Data/Task",
+                "Result"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "6": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "7": [
+                "Methodology"
+            ]
+        }
+    },
+    "Out-of-Distribution Detection and Selective Generation for Conditional Language Models": {
+        "llm_review": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Data/Task",
+                "Methodology",
+                "Result"
+            ],
+            "4": [
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "Presentation"
+            ],
+            "6": [
+                "Evaluation",
+                "Theory"
+            ],
+            "7": [
+                "Novelty"
+            ],
+            "8": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "9": [
+                "Methodology"
+            ],
+            "10": [
+                "Contribution",
+                "Result",
+                "Theory"
+            ],
+            "11": [
+                "Methodology",
+                "Novelty",
+                "Presentation",
+                "Significance"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "1": [
+                "Experiment"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "Presentation"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "Novelty"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "-"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Evaluation"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment"
+            ],
+            "8": [
+                "Analysis"
+            ],
+            "9": [
+                "Analysis"
+            ],
+            "10": [
+                "Evaluation",
+                "Novelty"
+            ],
+            "11": [
+                "Comparison"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "18": [
+                "Presentation"
+            ],
+            "19": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment"
+            ],
+            "20": [
+                "Analysis"
+            ],
+            "21": [
+                "-"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [
+                "Novelty"
+            ],
+            "24": [
+                "-"
+            ],
+            "25": [
+                "Methodology"
+            ],
+            "26": [
+                "Evaluation"
+            ],
+            "27": [
+                "-"
+            ],
+            "28": [
+                "-"
+            ],
+            "29": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Experiment",
+                "Methodology"
+            ],
+            "30": [
+                "Analysis",
+                "Experiment"
+            ],
+            "31": [
+                "Comparison",
+                "Methodology",
+                "Novelty"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Experiment"
+            ],
+            "2": [
+                "-"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Experiment",
+                "Presentation"
+            ],
+            "6": [
+                "-"
+            ],
+            "7": [
+                "Experiment",
+                "Novelty",
+                "Presentation"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "Comparison",
+                "Related Work"
+            ],
+            "10": [
+                "Comparison"
+            ],
+            "11": [
+                "Novelty"
+            ],
+            "12": [
+                "-"
+            ],
+            "13": [
+                "Experiment"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "-"
+            ],
+            "16": [
+                "-"
+            ],
+            "17": [
+                "Methodology"
+            ],
+            "18": [
+                "Presentation"
+            ],
+            "19": [
+                "-"
+            ],
+            "20": [
+                "Presentation"
+            ],
+            "21": [
+                "Methodology"
+            ],
+            "22": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "23": [
+                "-"
+            ],
+            "24": [
+                "-"
+            ],
+            "25": [
+                "Methodology"
+            ],
+            "26": [
+                "-"
+            ],
+            "27": [
+                "-"
+            ],
+            "28": [
+                "-"
+            ],
+            "29": [
+                "Methodology"
+            ],
+            "30": [
+                "Presentation"
+            ],
+            "31": [
+                "-"
+            ],
+            "32": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "33": [
+                "-"
+            ],
+            "34": [],
+            "35": [],
+            "36": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "37": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "38": [
+                "Evaluation"
+            ],
+            "39": [
+                "Comparison"
+            ],
+            "40": [
+                "-"
+            ],
+            "41": [
+                "Result"
+            ],
+            "42": [
+                "Result"
+            ],
+            "43": [],
+            "44": [
+                "Methodology"
+            ],
+            "45": [
+                "Methodology",
+                "Result"
+            ],
+            "46": [
+                "Data/Task",
+                "Evaluation"
+            ],
+            "47": [
+                "-"
+            ],
+            "48": [
+                "Data/Task"
+            ],
+            "49": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "50": [
+                "-"
+            ],
+            "51": [
+                "Data/Task"
+            ],
+            "52": [
+                "-"
+            ],
+            "53": [],
+            "54": [
+                "-"
+            ],
+            "55": [
+                "Data/Task"
+            ],
+            "56": [
+                "-"
+            ],
+            "57": [
+                "Evaluation",
+                "Result"
+            ],
+            "58": [
+                "Related Work"
+            ],
+            "59": [
+                "Related Work"
+            ],
+            "60": [
+                "-"
+            ],
+            "61": [
+                "Presentation"
+            ],
+            "62": [
+                "Presentation"
+            ],
+            "63": [
+                "-"
+            ],
+            "64": [
+                "Methodology",
+                "Presentation"
+            ],
+            "65": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "66": [
+                "Comparison",
+                "Methodology"
+            ],
+            "67": [
+                "Methodology",
+                "Related Work"
+            ],
+            "68": [
+                "Comparison"
+            ],
+            "69": [
+                "Intuition/Justification/Motivation/Validation"
+            ]
+        }
+    },
+    "Interactively Generating Explanations for Transformer Language Models": {
+        "llm_review": {
+            "0": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Methodology",
+                "Result"
+            ],
+            "2": [
+                "Comparison",
+                "Data/Task",
+                "Evaluation",
+                "Experiment",
+                "Methodology"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Evaluation",
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "Novelty",
+                "Presentation"
+            ],
+            "6": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "7": [
+                "Methodology",
+                "Novelty"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "10": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Evaluation",
+                "Methodology"
+            ],
+            "11": [
+                "Contribution",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "1": [
+                "-"
+            ],
+            "2": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "3": [
+                "-"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "-"
+            ],
+            "6": [
+                "Presentation"
+            ],
+            "7": [
+                "Comparison"
+            ],
+            "8": [
+                "-"
+            ],
+            "9": [
+                "-",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "10": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Methodology",
+                "Presentation"
+            ],
+            "13": [
+                "Experiment",
+                "Methodology"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Intuition/Justification/Motivation/Validation",
+                "Methodology"
+            ],
+            "1": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "2": [
+                "Intuition/Justification/Motivation/Validation"
+            ],
+            "3": [
+                "Related Work"
+            ],
+            "4": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "5": [
+                "Experiment"
+            ],
+            "6": [
+                "Analysis",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "7": [
+                "Methodology"
+            ],
+            "8": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Related Work"
+            ],
+            "9": [
+                "Presentation"
+            ],
+            "10": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "13": [
+                "Comparison",
+                "Methodology"
+            ],
+            "14": [
+                "Methodology"
+            ],
+            "15": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "16": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "17": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "18": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "19": [
+                "Methodology"
+            ],
+            "20": [
+                "Presentation"
+            ],
+            "21": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Presentation"
+            ],
+            "22": [
+                "-"
+            ],
+            "23": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Evaluation"
+            ],
+            "24": [
+                "Related Work",
+                "Result"
+            ],
+            "25": [
+                "Related Work"
+            ],
+            "26": [
+                "Result"
+            ],
+            "27": [
+                "Evaluation"
+            ],
+            "28": [
+                "Data/Task",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Evaluation"
+            ],
+            "29": [
+                "-"
+            ],
+            "30": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "31": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "32": [
+                "Experiment",
+                "Result"
+            ],
+            "33": [
+                "Comparison",
+                "Data/Task",
+                "Result"
+            ],
+            "34": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Result"
+            ],
+            "35": [
+                "Analysis",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "-"
+            ],
+            "1": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Ablation",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "Presentation",
+                "Result"
+            ],
+            "10": [
+                "-"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "-"
+            ],
+            "13": [
+                "Methodology"
+            ],
+            "14": [
+                "Methodology",
+                "Result"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Evaluation"
+            ]
+        },
+        "review#4": {
+            "0": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "1": [
+                "Experiment",
+                "Presentation"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Methodology",
+                "Result"
+            ],
+            "5": [
+                "Methodology",
+                "Result"
+            ],
+            "6": [
+                "Result"
+            ],
+            "7": [
+                "Result"
+            ],
+            "8": [],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Comparison",
+                "Result"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "-"
+            ],
+            "13": [
+                "Presentation"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Comparison",
+                "Presentation"
+            ],
+            "17": [
+                "Evaluation"
+            ],
+            "18": [
+                "Comparison",
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Methodology"
+            ],
+            "19": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ],
+            "20": [
+                "-"
+            ]
+        }
+    },
+    "SaMoE: Parameter Efficient MoE Language Models via Self-Adaptive Expert Combination": {
+        "llm_review": {
+            "0": [
+                "Experiment",
+                "Methodology",
+                "Presentation",
+                "Result"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Methodology",
+                "Result"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Ablation",
+                "Comparison",
+                "Evaluation",
+                "Experiment"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "6": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+                "Significance"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "9": [
+                "Presentation"
+            ],
+            "10": [
+                "Methodology",
+                "Presentation",
+                "Result"
+            ],
+            "11": [
+                "Methodology"
+            ],
+            "12": [
+                "Methodology",
+                "Novelty"
+            ],
+            "13": [
+                "Contribution",
+                "Novelty"
+            ],
+            "14": [
+                "-"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Methodology"
+            ],
+            "17": [
+                "Experiment",
+                "Methodology",
+                "Result"
+            ],
+            "18": [
+                "Contribution",
+                "Evaluation",
+                "Novelty"
+            ],
+            "19": [
+                "Methodology",
+                "Significance"
+            ]
+        },
+        "review#1": {
+            "0": [
+                "Methodology"
+            ],
+            "1": [
+                "Ablation",
+                "Methodology",
+                "Result"
+            ],
+            "2": [],
+            "3": [
+                "Data/Task",
+                "Result"
+            ],
+            "4": [
+                "-"
+            ],
+            "5": [
+                "Methodology"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "-"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Result"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Presentation"
+            ],
+            "13": [
+                "Evaluation",
+                "Experiment",
+                "Methodology"
+            ],
+            "14": [
+                "Presentation"
+            ],
+            "15": [
+                "Methodology"
+            ],
+            "16": [
+                "Methodology",
+                "Significance"
+            ],
+            "17": [
+                "Methodology",
+                "Result"
+            ],
+            "18": [
+                "Data/Task"
+            ],
+            "19": [
+                "Evaluation",
+                "Methodology"
+            ],
+            "20": [
+                "-"
+            ]
+        },
+        "review#2": {
+            "0": [
+                "Methodology",
+                "Result"
+            ],
+            "1": [
+                "Comparison",
+                "Methodology"
+            ],
+            "2": [
+                "Methodology"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Presentation"
+            ],
+            "5": [
+                "Data/Task",
+                "Methodology",
+                "Related Work"
+            ],
+            "6": [
+                "Methodology"
+            ],
+            "7": [
+                "Comparison",
+                "Related Work"
+            ],
+            "8": [
+                "Methodology",
+                "Result"
+            ],
+            "9": [
+                "Comparison",
+                "Methodology"
+            ],
+            "10": [
+                "Methodology"
+            ],
+            "11": [
+                "Presentation",
+                "Related Work"
+            ],
+            "12": [
+                "Methodology",
+                "Result"
+            ],
+            "13": [
+                "Intuition/Justification/Motivation/Validation",
+                "Result"
+            ],
+            "14": [
+                "Methodology"
+            ],
+            "15": [
+                "Methodology",
+                "Related Work",
+                "Result"
+            ],
+            "16": [
+                "Methodology",
+                "Result"
+            ],
+            "17": [
+                "Methodology"
+            ],
+            "18": [
+                "Comparison"
+            ],
+            "19": [
+                "Methodology"
+            ],
+            "20": [
+                "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+            ]
+        },
+        "review#3": {
+            "0": [
+                "Analysis"
+            ],
+            "1": [
+                "Methodology"
+            ],
+            "2": [
+                "Experiment",
+                "Methodology",
+                "Presentation"
+            ],
+            "3": [
+                "Methodology"
+            ],
+            "4": [
+                "Methodology"
+            ],
+            "5": [
+                "Analysis",
+                "Methodology",
+                "Related Work"
+            ],
+            "6": [
+                "Analysis",
+                "Methodology"
+            ],
+            "7": [
+                "Analysis",
+                "Methodology",
+                "Result"
+            ],
+            "8": [
+                "Methodology"
+            ],
+            "9": [
+                "-"
+            ],
+            "10": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "11": [
+                "-"
+            ],
+            "12": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "13": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "14": [
+                "Data/Task"
+            ],
+            "15": [
+                "Data/Task"
+            ],
+            "16": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "17": [
+                "Comparison",
+                "Methodology"
+            ],
+            "18": [
+                "Comparison",
+                "Methodology"
+            ],
+            "19": [
+                "Experiment",
+                "Result"
+            ],
+            "20": [
+                "Comparison",
+                "Methodology"
+            ],
+            "21": [
+                "Methodology"
+            ],
+            "22": [
+                "Result"
+            ],
+            "23": [
+                "Methodology",
+                "Presentation"
+            ],
+            "24": [
+                "Related Work"
+            ],
+            "25": [
+                "-"
+            ],
+            "26": [
+                "Methodology",
+                "Related Work"
+            ],
+            "27": [
+                "Related Work"
+            ],
+            "28": [
+                "Related Work"
+            ],
+            "29": [],
+            "30": [
+                "Related Work"
+            ],
+            "31": [
+                "Related Work"
+            ],
+            "32": [
+                "Related Work"
+            ],
+            "33": [
+                "Presentation"
+            ],
+            "34": [
+                "Methodology"
+            ],
+            "35": [
+                "Analysis",
+                "Methodology"
+            ],
+            "36": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "37": [
+                "Data/Task",
+                "Methodology"
+            ],
+            "38": [
+                "-"
+            ]
+        }
+    }
+}

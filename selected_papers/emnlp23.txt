@@ -1,0 +1,50 @@
+Natural Language Annotations for Reasoning about Program Semantics
+MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor
+Character-LLM: A Trainable Agent for Role-Playing
+GBT: Generative Boosting Training Approach for Paraphrase Identification
+Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning
+KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models
+Affective and Dynamic Beam Search for Story Generation
+CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation.
+GROVE: A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence
+Demystifying Prompts in Language Models via Perplexity Estimation
+Noisy Self-Training with Synthetic Queries for Dense Retrieval
+An Investigation of LLMs’ Inefficacy in Understanding Converse Relations
+Memorisation Cartography: Mapping out the Memorisation-Generalisation Continuum in Neural Machine Translation
+For Generated Text, Is NLI-Neutral Text the Best Text?
+Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation
+Mitigating Temporal Misalignment by Discarding Outdated Facts
+Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
+Seeing through the mess: evolutionary dynamics of lexical polysemy
+Emptying the Ocean with a Spoon: Should We Edit Models?
+CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model
+Symbolic Planning and Code Generation for Grounded Dialogue
+Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations
+Debiasing Made State-of-the-art: Revisiting the Simple Seed-based Weak Supervision for Text Classification
+Boosting Inference Efficiency: Unleashing the Power of Parameter-Shared Pre-trained Language Models
+Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms
+Reduce Human Labor On Evaluating Conversational Information Retrieval System: A Human-Machine Collaboration Approach
+Discovering Universal Geometry in Embeddings with ICA
+SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams
+IC3: Image Captioning by Committee Consensus
+Extrapolating Multilingual Understanding Models as Multilingual Generators
+KAPALM: Knowledge grAPh enhAnced Language Models for Fake News Detection
+Learning to Abstract with Nonparametric Variational Information Bottleneck
+Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models
+Crystal: Introspective Reasoners Reinforced with Self-Feedback
+Prototype-based HyperAdapter for Sample-Efficient Multi-task Tuning
+Specialist or Generalist? Instruction Tuning for Specific NLP Tasks
+Uncertainty Guided Global Memory Improves Multi-Hop Question Answering
+The Benefits of Label-Description Training for Zero-Shot Text Classification
+Self-Improvement of Non-autoregressive Model via Sequence-Level Distillation
+Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering
+Task-Aware Self-Supervised Framework for Dialogue Discourse Parsing
+ART: rule bAsed futuRe-inference deducTion
+Scene Graph Enhanced Pseudo-Labeling for Referring Expression Comprehension
+Unsupervised Sounding Pixel Learning
+CoEdIT: Text Editing by Task-Specific Instruction Tuning
+DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text
+Modeling Highlighting of Metaphors in Multitask Contrastive Learning Paradigms
+DemoNSF: A Multi-task Demonstration-based Generative Framework for Noisy Slot Filling Task
+Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification
+SPT: Learning to Selectively Insert Prompts for Better Prompt Tuning

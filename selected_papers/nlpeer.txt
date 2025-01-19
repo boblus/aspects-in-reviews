@@ -1,0 +1,50 @@
+Cross-Lingual Named Entity Recognition via Wikification
+Attention-over-Attention Neural Networks for Reading Comprehension
+Semi-supervised Convolutional Networks for Translation Adaptation with Tiny Amount of In-domain Data
+Cross-lingual Name Tagging and Linking for 282 Languages
+Layer-wise Multi-view Learning for Neural Machine Translation
+Li ṅ: Unsupervised Extraction of Tasks from Textual Communication
+Humans Meet Models on Object Naming: A New Dataset and Analysis
+Interpreting Neural Networks to Understand Written Justifications in Values-Affirmation Essays
+TextFlow: A Text Similarity Measure based on Continuous Sequences
+Are We Ready for this Disaster? Towards Location Mention Recognition from Crisis Tweets
+Leveraging Behavioral and Social Information for Weakly Supervised Collective Classification of Political Discourse on Twitter
+Adversarial Multi-Criteria Learning for Chinese Word Segmentation
+Phrasal Recurrent Neural Network
+Event-based, Recursive Neural Networks for the Extraction and Aggregation of International Alliance Relations
+Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps
+Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network
+Multimodal Word Distributions
+Retrieving Inductive Bias of Attribute as Reference for Review Generation
+Massively Multilingual Word Embeddings
+Subword Representations and Pre-trained Language Model for Thai Part-of-Speech Tagging in Universal Part of Speech Scheme
+End-to-End Neural Relation Extraction with Global Optimization
+Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction
+Semi-supervised Domain Adaptation for Dependency Parsing via Improved Contextualized Word Representations
+A Neural Local Coherence Model
+Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks
+Identifying 1950s American Jazz Musicians: Fine-Grained IsA Extraction via Modifier Composition
+Universal Semantic Parsing
+Vancouver Welcomes You! Minimalist Location Metonymy Resolution
+Enriching Complex Networks with Word Embeddings for Detecting Mild Cognitive Impairment from Speech Transcripts
+Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning
+Zero-Shot Relation Extraction via Reading Comprehension
+Deep Keyphrase Generation
+Ontology-Aware Token Embeddings for Prepositional Phrase Attachment
+Creation of Corpus and analysis in Code-Mixed Kannada-English Twitter data for Emotion Prediction
+Compression of Neural Machine Translation Models via Pruning
+Evaluating Pretrained Transformer-based Models on the Task of Fine-Grained Named Entity Recognition
+Semi-supervised sequence tagging with bidirectional language models
+Neural Machine Translation via Binary Code Prediction
+Heterogeneous Graph Neural Networks to Predict What Happen Next
+Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms
+A Geometric Contextual Model for Identifying Unseen Metaphors
+Context-Dependent Sentiment Analysis in User-Generated Videos
+Multi-grained Chinese Word Segmentation with Weakly Labeled Data
+Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors
+Neural Automated Essay Scoring Incorporating Handcrafted Features
+Metrics also Disagree in the Low Scoring Range: Revisiting Summarization Evaluation Metrics
+Dynamic Curriculum Learning for Low-Resource Neural Machine Translation
+Incorporating Inner-word and Out-word Features for Mongolian Morphological Segmentation
+An Interpretable Knowledge Transfer Model for Knowledge Base Completion
+The Indigenous Languages Technology project: An empowerment-oriented approach to developing language software

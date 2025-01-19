@@ -1,0 +1,50 @@
+Denoise while Aggregating: Collaborative Learning in Open-Domain Question Answering
+FlowQA: Grasping Flow in History for Conversational Machine Comprehension
+Language Modeling with Graph Temporal Convolutional Networks
+Hierarchically-Structured Variational Autoencoders for Long Text Generation
+Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks
+Learning to encode spatial relations from natural language
+NLProlog: Reasoning with Weak Unification for Natural Language Question Answering
+What do you learn from context? Probing for sentence structure in contextualized word representations
+Phrase-Based Attentions
+Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks 
+Open Vocabulary Learning on Source Code with a Graph-Structured Cache
+The Natural Language Decathlon: Multitask Learning as Question Answering
+Transformer-XL: Language Modeling with Longer-Term Dependency
+Improving Sequence-to-Sequence Learning via Optimal Transport
+Complement Objective Training
+Discovery of Natural Language Concepts in Individual Units of CNNs
+Hint-based Training for Non-Autoregressive Translation
+DARTS: Differentiable Architecture Search
+CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication
+The Effectiveness of Pre-Trained Code Embeddings
+Adaptive Pruning of Neural Language Models for Mobile Devices
+Learning to Screen for Fast Softmax  Inference on Large Vocabulary Neural Networks
+Improving Composition of Sentence Embeddings through the Lens of Statistical Relational Learning
+Question Generation using a Scratchpad Encoder
+Learning to Represent Edits
+Guiding Policies with Language via Meta-Learning
+Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling
+Trellis Networks for Sequence Modeling
+Talk The Walk: Navigating Grids in New York City through Grounded Dialogue
+Systematic Generalization: What Is Required and Can It Be Learned?
+Countering Language Drift via Grounding
+A bird's eye view on coherence, and a worm's eye view on cohesion
+Visualizing and Understanding the Semantics of Embedding Spaces via Algebraic Formulae
+Scalable Neural Theorem Proving on Knowledge Bases and Natural Language
+Learning to Understand Goal Specifications by Modelling Reward
+Exploiting Cross-Lingual Subword Similarities in Low-Resource Document Classification
+Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering
+GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding
+GraphSeq2Seq: Graph-Sequence-to-Sequence for Neural Machine Translation
+A Proposed Hierarchy of Deep Learning Tasks
+Hierarchical interpretations for neural network predictions
+Multi-Task Learning for Semantic Parsing with Cross-Domain Sketch
+Transfer Learning for Sequences via Learning to Collocate
+Representation Degeneration Problem in Training Natural Language Generation Models
+Real-time Neural-based Input Method
+DOMAIN ADAPTATION VIA DISTRIBUTION AND REPRESENTATION MATCHING: A CASE STUDY ON TRAINING DATA SELECTION VIA REINFORCEMENT LEARNING
+Unsupervised Document Representation using Partition Word-Vectors Averaging
+Zero-Resource Multilingual Model Transfer: Learning What to Share
+Wizard of Wikipedia: Knowledge-Powered Conversational Agents
+Neural Speed Reading with Structural-Jump-LSTM

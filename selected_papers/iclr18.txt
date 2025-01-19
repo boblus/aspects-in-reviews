@@ -1,0 +1,50 @@
+Dynamic Integration of Background Knowledge in Neural NLU Systems
+Predicting Auction Price of Vehicle License Plate with Deep Recurrent Neural Network
+Compositional Obverter Communication Learning from Raw Visual Input
+Dynamic Evaluation of Neural Sequence Models
+LEARNING SEMANTIC WORD RESPRESENTATIONS VIA TENSOR FACTORIZATION
+Word2net: Deep Representations of Language
+Training RNNs as Fast as CNNs
+On the State of the Art of Evaluation in Neural Language Models
+Alpha-divergence bridges maximum likelihood and reinforcement learning in neural sequence generation
+From Information Bottleneck To Activation Norm Penalty
+Relevance of Unsupervised Metrics in Task-Oriented Dialogue for Evaluating Natural Language Generation
+DCN+: Mixed Objective And Deep Residual Coattention for Question Answering
+Natural Language Inference over Interaction Space
+Modifying memories in a Recurrent Neural Network Unit
+DLVM: A modern compiler infrastructure for deep learning systems
+Associative Conversation Model: Generating Visual Information from Textual Information
+Generative Entity Networks: Disentangling Entitites and Attributes in Visual Scenes using Partial Natural Language Descriptions
+Unsupervised Learning of Entailment-Vector Word Embeddings
+Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning
+Generative Models of Visually Grounded Imagination
+FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension
+Learning to navigate by distilling visual information and natural language instructions
+Generating Wikipedia by Summarizing Long Sequences
+Finding ReMO (Related Memory Object): A Simple neural architecture for Text based Reasoning
+Regularizing and Optimizing LSTM Language Models
+Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks
+Fast and Accurate Text Classification: Skimming, Rereading and Early Stopping
+A Simple Fully Connected Network for Composing Word Embeddings from Characters
+EXPLORING NEURAL ARCHITECTURE SEARCH FOR LANGUAGE TASKS
+Interactive Grounded Language Acquisition and Generalization in a 2D World
+Learning to Write by Learning the Objective
+Understanding Grounded Language Learning Agents
+Compressing Word Embeddings via Deep Compositional Code Learning
+Learning Differentially Private Recurrent Language Models
+A Deep Reinforced Model for Abstractive Summarization
+Rotational Unit of Memory 
+Beyond Word Importance:  Contextual Decomposition to Extract Interactions from LSTMs
+Natural Language Inference with External Knowledge
+COLD FUSION: TRAINING SEQ2SEQ MODELS TOGETHER WITH LANGUAGE MODELS
+Neural Speed Reading via Skim-RNN
+What is image captioning made of?
+Seq2SQL: Generating Structured Queries From Natural Language Using Reinforcement Learning 
+Neural Language Modeling by Jointly Learning Syntax and Lexicon
+Dense Recurrent Neural Network with Attention Gate
+Large Margin Neural Language Models
+Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling
+Zero-shot Cross Language Text Classification
+Adversarially Regularized Autoencoders
+Comparison of Paragram and GloVe Results for Similarity Benchmarks
+Emergence of Linguistic Communication from  Referential Games with Symbolic and Pixel Input
