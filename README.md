@@ -13,7 +13,7 @@
 * Coarsed-grained: [aspects - coarse.csv](aspects-coarse.csv)
 * Fine-grained: [aspects - fine.csv](aspects-fine.csv)
 
-### Validity Check
+### Validity check
 * LLM annotation consistency: [notebook-validity_check_&_aspect_analysis.ipynb](notebook-validity_check_&_aspect_analysis.ipynb)
 * Annotation guidelines: [annotation-guidelines.pdf](annotation-guidelines.pdf)
 * Human annotations: [human_annotations/](human_annotations)
